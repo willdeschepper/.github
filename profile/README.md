@@ -140,8 +140,21 @@ Projetos de fases anteriores da carreira, mantidos como registro. Alguns rodam h
 
 ## Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=4rweb&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Wiliam" width="450" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=4rweb&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=8" alt="Linguagens mais usadas" width="350" />
 
-<img src="https://streak-stats.demolab.com?user=4rweb&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições" width="450" />
+## My Statistics
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=4rweb&show_icons=true&locale=en&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="4rweb" /></p>
+</p>
+
+
+<br/>
+  <p float="left">
+  <img width="500px" src="https://github-readme-stats-4rweb.vercel.app/api?username=4rweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="4rweb" />
+  </p>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats-4rweb.vercel.app?user=4rweb&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Will Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4rweb&theme=github-compact)
