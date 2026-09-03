@@ -8,7 +8,7 @@
 
 Hoje atuo como Tech Lead hands-on na Float Health, liderando arquitetura e desenvolvimento enquanto continuo escrevendo código todos os dias.
 
-Stack principal: **TypeScript, React, Next.js, Node.js e NestJS**, com arquitetura full-stack, APIs, PostgreSQL, Redis/BullMQ, WebSockets e integrações enterprise.
+Stack principal: **TypeScript, React, React Native, Next.js, Node.js e NestJS**, com arquitetura full-stack, APIs, PostgreSQL, Redis/BullMQ, WebSockets e integrações enterprise.
 
 Nos últimos anos venho construindo sistemas de **AI com guardrails**: agentes, orquestração multi-agente e MCP. Minha tese é simples: a IA propõe, o código determinístico decide, o humano aprova.
 
