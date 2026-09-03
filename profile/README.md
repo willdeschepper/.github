@@ -40,6 +40,8 @@ Aplicativo de apoio a profissionais de saúde na avaliação e abordagem da fibr
 
 O fluxo organiza os parâmetros informados e apresenta uma classificação como apoio complementar ao raciocínio clínico. Também reúne seções de abordagem sistêmica, encaminhamento à psiquiatria, terapêutica e referências bibliográficas.
 
+**Stack original:** `React Native` `React Navigation` `Node.js` `REST APIs` `Jest`
+
 <a href="https://native-apps-three.vercel.app/protocolo-da-dor/" target="_blank" rel="noopener noreferrer"><strong>Ver demonstração interativa →</strong></a>
 
 ### <a href="https://github.com/willdeschepper/MuAiFlow" target="_blank" rel="noopener noreferrer">MuAiFlow</a>
