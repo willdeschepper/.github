@@ -34,6 +34,14 @@ O aplicativo original não está mais disponível nas lojas. Para apresentar sua
 
 <a href="https://native-apps-three.vercel.app/memoria-viva/" target="_blank" rel="noopener noreferrer"><strong>Ver demonstração interativa →</strong></a>
 
+### Protocolo da Dor — apoio à avaliação de fibromialgia
+
+Aplicativo de apoio a profissionais de saúde na avaliação e abordagem da fibromialgia. A interface reúne um mapa corporal interativo para seleção das áreas dolorosas e apresenta o Índice de Dor Generalizada (IDG), a Escala de Gravidade dos Sintomas (EGS) e a distribuição da dor por regiões.
+
+O fluxo organiza os parâmetros informados e apresenta uma classificação como apoio complementar ao raciocínio clínico. Também reúne seções de abordagem sistêmica, encaminhamento à psiquiatria, terapêutica e referências bibliográficas.
+
+<a href="https://native-apps-three.vercel.app/protocolo-da-dor/" target="_blank" rel="noopener noreferrer"><strong>Ver demonstração interativa →</strong></a>
+
 ### <a href="https://github.com/willdeschepper/MuAiFlow" target="_blank" rel="noopener noreferrer">MuAiFlow</a>
 
 Framework open source de orquestração multi-agente, publicado no npm.
@@ -151,12 +159,6 @@ Aplicativos que desenvolvi e que foram publicados nas lojas. Como hoje não est�
 | **Lanxess** | <a href="https://native-apps-three.vercel.app/lanxess/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> |
 | **Tarja Rosa** | <a href="https://native-apps-three.vercel.app/tarja-rosa/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> |
 | **Protocolo da Dor** | <a href="https://native-apps-three.vercel.app/protocolo-da-dor/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> — apoio à avaliação de fibromialgia, com mapa corporal da dor e indicadores de sintomas. |
-
-#### Protocolo da Dor — apoio à avaliação de fibromialgia
-
-Aplicativo de apoio a profissionais de saúde na avaliação e abordagem da fibromialgia. A interface reúne um mapa corporal interativo para seleção das áreas dolorosas e apresenta o Índice de Dor Generalizada (IDG), a Escala de Gravidade dos Sintomas (EGS) e a distribuição da dor por regiões.
-
-O fluxo organiza os parâmetros informados e apresenta uma classificação como apoio complementar ao raciocínio clínico. Também reúne seções de abordagem sistêmica, encaminhamento à psiquiatria, terapêutica e referências bibliográficas.
 
 ### React / Next.js
 
