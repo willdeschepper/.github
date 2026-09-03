@@ -174,10 +174,10 @@ Aplicativos que desenvolvi e que foram publicados nas lojas. Como hoje não est�
 
 | Projeto | Demonstração |
 | --- | --- |
-| **MemoriaViva** | <a href="https://native-apps-three.vercel.app/memoria-viva/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> — experiência do app de apoio a cuidadores de pacientes com Alzheimer. |
 | **HER2** | <a href="https://native-apps-three.vercel.app/her2/" target="_blank" rel="noopener noreferrer">Abrir demonstração web</a> — interface interativa com seleção de características de perfis clínicos. |
 | **Lanxess** | <a href="https://native-apps-three.vercel.app/lanxess/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> |
-| **Protocolo da Dor** | <a href="https://native-apps-three.vercel.app/protocolo-da-dor/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> — apoio à avaliação de fibromialgia, com mapa corporal da dor e indicadores de sintomas. |
+
+Explore também os projetos em **React Native** — MemoriaViva, Protocolo da Dor e Tarja Rosa — na seção <a href="#projetos-em-destaque">Projetos em destaque ↑</a>.
 
 ### React / Next.js
 
