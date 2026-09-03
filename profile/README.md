@@ -1,8 +1,8 @@
 # Wiliam De Schepper
 
-[![LinkedIn Badge](https://img.shields.io/badge/-willdeschepper-2986cc?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willdeschepper/)
-[![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~4rweb)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@willdeschepper)
+<a href="https://www.linkedin.com/in/willdeschepper/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-willdeschepper-2986cc?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge" /></a>
+<a href="https://www.npmjs.com/~4rweb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="npm" /></a>
+<a href="https://medium.com/@willdeschepper" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
 
 **Tech Lead Full Stack** com mais de 20 anos em tecnologia, sendo **mais de 14 anos** construindo produtos digitais para healthcare e pharma.
 
@@ -32,9 +32,9 @@ O produto começou com um MVP controlado de 10 pacientes e 10 enfermeiros e evol
 
 O aplicativo original não está mais disponível nas lojas. Para apresentar suas telas e fluxos, disponibilizo uma demonstração interativa por meio de um protótipo navegável.
 
-[**Ver demonstração interativa →**](https://native-apps-three.vercel.app/memoria-viva/)
+<a href="https://native-apps-three.vercel.app/memoria-viva/" target="_blank" rel="noopener noreferrer"><strong>Ver demonstração interativa →</strong></a>
 
-### [MuAiFlow](https://github.com/willdeschepper/MuAiFlow)
+### <a href="https://github.com/willdeschepper/MuAiFlow" target="_blank" rel="noopener noreferrer">MuAiFlow</a>
 
 Framework open source de orquestração multi-agente, publicado no npm.
 
@@ -44,7 +44,7 @@ CLI própria, extensão para VS Code, sistema de skills instaláveis e roteament
 
 `TypeScript` `Node.js` `CLI` `VS Code Extension` `MIT`
 
-### [AI Medical Review](https://github.com/willdeschepper/ai-medical-review)
+### <a href="https://github.com/willdeschepper/ai-medical-review" target="_blank" rel="noopener noreferrer">AI Medical Review</a>
 
 Agente de pré-triagem clínica pelo Protocolo de Manchester. Construído para o Global AI Hackathon (Qwen Cloud, Track 4).
 
@@ -146,22 +146,22 @@ Aplicativos que desenvolvi e que foram publicados nas lojas. Como hoje não est�
 
 | Projeto | Demonstração |
 | --- | --- |
-| **MemoriaViva** | [Ver demonstração interativa](https://native-apps-three.vercel.app/memoria-viva/) — experiência do app de apoio a cuidadores de pacientes com Alzheimer. |
-| **HER2** | [Abrir demonstração web](https://native-apps-three.vercel.app/her2/) — interface interativa com seleção de características de perfis clínicos. |
-| **Lanxess** | [Ver demonstração interativa](https://native-apps-three.vercel.app/lanxess/) |
-| **Tarja Rosa** | [Ver demonstração interativa](https://native-apps-three.vercel.app/tarja-rosa/) |
+| **MemoriaViva** | <a href="https://native-apps-three.vercel.app/memoria-viva/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> — experiência do app de apoio a cuidadores de pacientes com Alzheimer. |
+| **HER2** | <a href="https://native-apps-three.vercel.app/her2/" target="_blank" rel="noopener noreferrer">Abrir demonstração web</a> — interface interativa com seleção de características de perfis clínicos. |
+| **Lanxess** | <a href="https://native-apps-three.vercel.app/lanxess/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> |
+| **Tarja Rosa** | <a href="https://native-apps-three.vercel.app/tarja-rosa/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> |
 
 ### React / Next.js
 
-- [Three4 Academy](https://three4-front.vercel.app/)
-- [Masterclass Digital Design](https://masterclassdigitaldesign.vercel.app/)
-- [Blathy](https://blathy.vercel.app/)
-- [Luz](https://luz-nextjs.vercel.app/)
-- [Mumu Generator](https://mumu-generator.vercel.app/)
+- <a href="https://three4-front.vercel.app/" target="_blank" rel="noopener noreferrer">Three4 Academy</a>
+- <a href="https://masterclassdigitaldesign.vercel.app/" target="_blank" rel="noopener noreferrer">Masterclass Digital Design</a>
+- <a href="https://blathy.vercel.app/" target="_blank" rel="noopener noreferrer">Blathy</a>
+- <a href="https://luz-nextjs.vercel.app/" target="_blank" rel="noopener noreferrer">Luz</a>
+- <a href="https://mumu-generator.vercel.app/" target="_blank" rel="noopener noreferrer">Mumu Generator</a>
 
 ### Vue
 
-- [4RWeb](https://www.4rweb.net)
+- <a href="https://www.4rweb.net" target="_blank" rel="noopener noreferrer">4RWeb</a>
 
 <details>
 <summary><b>Arquivo histórico</b> (Flash, jQuery e projetos antigos)</summary>
@@ -170,13 +170,13 @@ Aplicativos que desenvolvi e que foram publicados nas lojas. Como hoje não est�
 
 Projetos de fases anteriores da carreira, mantidos como registro. Alguns rodam hoje via Ruffle.
 
-- [Ability](https://ability-game-flash.vercel.app/) — jogo de plataforma que criei em ActionScript
-- [Cinamaker](https://cinamaker.vercel.app/)
-- [Flash Sites](https://flashsites-eight.vercel.app/)
-- [Programa Viva](https://www.programaviva.com.br/)
-- [Receita de Vida](https://receitadevida.com.br/)
-- [Grupo Almah](https://www.grupoalmah.com.br)
-- [Fibromialgia Diagnóstico](https://fibromialgiadiagnostico.com.br/) — Angular
+- <a href="https://ability-game-flash.vercel.app/" target="_blank" rel="noopener noreferrer">Ability</a> — jogo de plataforma que criei em ActionScript
+- <a href="https://cinamaker.vercel.app/" target="_blank" rel="noopener noreferrer">Cinamaker</a>
+- <a href="https://flashsites-eight.vercel.app/" target="_blank" rel="noopener noreferrer">Flash Sites</a>
+- <a href="https://www.programaviva.com.br/" target="_blank" rel="noopener noreferrer">Programa Viva</a>
+- <a href="https://receitadevida.com.br/" target="_blank" rel="noopener noreferrer">Receita de Vida</a>
+- <a href="https://www.grupoalmah.com.br" target="_blank" rel="noopener noreferrer">Grupo Almah</a>
+- <a href="https://fibromialgiadiagnostico.com.br/" target="_blank" rel="noopener noreferrer">Fibromialgia Diagnóstico</a> — Angular
 
 </details>
 
@@ -188,6 +188,6 @@ Projetos de fases anteriores da carreira, mantidos como registro. Alguns rodam h
 
 <img width="500" src="https://github-readme-stats-4rweb.vercel.app/api?username=willdeschepper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas de Wiliam De Schepper" />
 
-[![GitHub Streak](https://github-readme-streak-stats-4rweb.vercel.app?user=willdeschepper&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://github.com/willdeschepper)
+<a href="https://github.com/willdeschepper" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-streak-stats-4rweb.vercel.app?user=willdeschepper&amp;theme=tokyonight&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 ![Atividade de Wiliam De Schepper](https://github-readme-activity-graph.vercel.app/graph?username=willdeschepper&theme=github-compact)
