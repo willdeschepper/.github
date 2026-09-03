@@ -44,6 +44,24 @@ O fluxo organiza os parâmetros informados e apresenta uma classificação como 
 
 <a href="https://native-apps-three.vercel.app/protocolo-da-dor/" target="_blank" rel="noopener noreferrer"><strong>Ver demonstração interativa →</strong></a>
 
+### Tarja Rosa — saúde feminina, autocuidado e lembretes via WhatsApp
+
+Aplicativo de saúde e bem-estar feminino para a Libbs, reunindo conteúdo educativo, autocuidado e apoio à rotina de medicamentos em uma experiência mobile com temas claro e escuro.
+
+O **TarjaBot** permite configurar lembretes de tomada de medicamentos pelo WhatsApp e registrar as confirmações da usuária. Um painel apresenta os indicadores de mensagens enviadas, recebidas e confirmadas, com consulta por período.
+
+A experiência inclui **podcasts**, dicas e notícias sobre sexualidade, contracepção e atualidades, além de conteúdos de alimentação, exercícios, alongamento, meditação e yoga. Os conteúdos são organizados por categorias, com recursos de busca, curtidas e favoritos.
+
+O **TarjaMoji** acrescenta uma camada de personalização: a usuária monta seu avatar escolhendo cabelo, cor, tom de pele e outros traços, com figurinhas que também aparecem nas conversas do TarjaBot.
+
+**Stack original:** `React Native` `React Navigation` `Node.js` `REST APIs` `Jest`
+
+**Recursos e integrações:** `WhatsApp` `Lembretes agendados` `Podcasts` `Visualização de dados` `Temas claro/escuro` `Avatares personalizáveis`
+
+O aplicativo original não está mais disponível nas lojas. A demonstração interativa preserva suas interfaces e fluxos para apresentação do projeto.
+
+<a href="https://native-apps-three.vercel.app/tarja-rosa/" target="_blank" rel="noopener noreferrer"><strong>Ver demonstração interativa →</strong></a>
+
 ### <a href="https://github.com/willdeschepper/MuAiFlow" target="_blank" rel="noopener noreferrer">MuAiFlow</a>
 
 Framework open source de orquestração multi-agente, publicado no npm.
@@ -159,7 +177,6 @@ Aplicativos que desenvolvi e que foram publicados nas lojas. Como hoje não est�
 | **MemoriaViva** | <a href="https://native-apps-three.vercel.app/memoria-viva/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> — experiência do app de apoio a cuidadores de pacientes com Alzheimer. |
 | **HER2** | <a href="https://native-apps-three.vercel.app/her2/" target="_blank" rel="noopener noreferrer">Abrir demonstração web</a> — interface interativa com seleção de características de perfis clínicos. |
 | **Lanxess** | <a href="https://native-apps-three.vercel.app/lanxess/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> |
-| **Tarja Rosa** | <a href="https://native-apps-three.vercel.app/tarja-rosa/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> |
 | **Protocolo da Dor** | <a href="https://native-apps-three.vercel.app/protocolo-da-dor/" target="_blank" rel="noopener noreferrer">Ver demonstração interativa</a> — apoio à avaliação de fibromialgia, com mapa corporal da dor e indicadores de sintomas. |
 
 ### React / Next.js
