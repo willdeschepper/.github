@@ -122,8 +122,6 @@ Testes em três níveis, com validação automatizada no build.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-Arquitetura offline-first, persistência local, sincronização com APIs e publicação para iOS e Android. Experiência com React Navigation, Redux/Redux-Saga e AsyncStorage, além de projetos híbridos com PhoneGap.
-
 **Backend**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
