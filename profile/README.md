@@ -62,6 +62,34 @@ O aplicativo original não está mais disponível nas lojas. A demonstração in
 
 <a href="https://native-apps-three.vercel.app/tarja-rosa/" target="_blank" rel="noopener noreferrer"><strong>Ver demonstração interativa →</strong></a>
 
+### Projetos recentes — React Native
+
+Projetos públicos que conectam experiência mobile, operação offline e confiabilidade de workflows.
+
+#### <a href="https://github.com/willdeschepper/plan-and-eat-delivery" target="_blank" rel="noopener noreferrer">Plan &amp; Eat Delivery</a>
+
+Aplicativo para entregadores com autenticação, atribuição de entregas, mapas e conclusão de pedidos. A conclusão persiste o comando antes do envio, reutiliza uma `Idempotency-Key` em novas tentativas e retoma a sincronização após perda de conexão ou resposta incerta.
+
+`React Native` `Expo Router` `TanStack Query` `MMKV` `Keychain` `NetInfo`
+
+#### <a href="https://github.com/willdeschepper/event-checkin" target="_blank" rel="noopener noreferrer">Event Check-in</a>
+
+Aplicativo de check-in em eventos com QR Code e código manual. Cada operação é persistida em SQLite antes da chamada de rede, com prevenção de duplicidade, backoff, reconciliação e cenário de carga em k6.
+
+`React Native` `Expo Router` `SQLite` `SecureStore` `NetInfo` `k6`
+
+#### <a href="https://github.com/willdeschepper/food-delivery" target="_blank" rel="noopener noreferrer">Food Delivery</a>
+
+Jornada mobile de delivery com cardápio, carrinho, checkout e acompanhamento de pedido. Pedidos criados sem conexão permanecem pendentes no aparelho e são sincronizados preservando a identidade idempotente.
+
+`React Native` `Expo Router` `TanStack Query` `Zustand` `SQLite` `Vitest`
+
+#### <a href="https://github.com/willdeschepper/appointment-book" target="_blank" rel="noopener noreferrer">Appointment Book</a>
+
+Componente reutilizável de agenda diária para React Native, com timeline de 24 horas, eventos sobrepostos, formatos 12/24h e layout responsivo. Publica builds CJS/ESM com declarações TypeScript e testes automatizados.
+
+`React Native` `TypeScript` `tsup` `Vitest`
+
 ### <a href="https://github.com/willdeschepper/MuAiFlow" target="_blank" rel="noopener noreferrer">MuAiFlow</a>
 
 Framework open source de orquestração multi-agente, publicado no npm.
