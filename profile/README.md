@@ -6,7 +6,7 @@
 
 **Senior Software Engineer / Tech Lead** com mais de 20 anos em tecnologia e mais de uma década desenvolvendo produtos digitais para healthcare e pharma.
  
-Atualmente atuo como Tech Lead hands-on na Float Health, liderando arquitetura e desenvolvimento de plataformas e produtos digitais enquanto continuo trabalhando diretamente com código.
+Atualmente como Software Engineer na 4RWeb Interactive, liderando arquitetura e desenvolvimento de plataformas e produtos digitais enquanto continuo trabalhando diretamente com código.
  
 Minha stack atual é principalmente TypeScript, React, Next.js, Node.js e PostgreSQL, com experiência em arquitetura full stack, APIs, Redis/BullMQ, WebSockets, integrações enterprise e aplicações mobile em React Native.
  
