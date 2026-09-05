@@ -4,17 +4,19 @@
 <a href="https://www.npmjs.com/~4rweb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="npm" /></a>
 <a href="https://medium.com/@willdeschepper" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
 
-**Tech Lead Full Stack** com mais de 20 anos em tecnologia, sendo **mais de 14 anos** construindo produtos digitais para healthcare e pharma.
-
-Hoje atuo como Tech Lead hands-on na Float Health, liderando arquitetura e desenvolvimento enquanto continuo escrevendo código todos os dias.
-
-Minha stack atual é **TypeScript, React, Next.js, Node.js e NestJS**, com arquitetura full stack, APIs, PostgreSQL, Redis/BullMQ, WebSockets e integrações enterprise.
-
-Minha experiência também inclui **desenvolvimento mobile com React Native para iOS e Android**, da arquitetura à publicação nas lojas. No **MemoriaViva**, trabalhei com operação offline-first, persistência local e sincronização com o backend, conectando o aplicativo de cuidadores a um portal utilizado por profissionais de saúde.
-
-Parte dos produtos que desenvolvi em healthcare e pharma tem acesso restrito por contratos e compliance. O portfólio reúne projetos e demonstrações que posso compartilhar publicamente.
-
-Nos últimos anos venho construindo sistemas de **AI com guardrails**: agentes, orquestração multi-agente e MCP. Minha tese é simples: a IA propõe, o código determinístico decide, o humano aprova.
+**Senior Software Engineer / Tech Lead** com mais de 20 anos em tecnologia e mais de uma década desenvolvendo produtos digitais para healthcare e pharma.
+ 
+Atualmente atuo como Tech Lead hands-on na Float Health, liderando arquitetura e desenvolvimento de plataformas e produtos digitais enquanto continuo trabalhando diretamente com código.
+ 
+Minha stack atual é principalmente TypeScript, React, Next.js, Node.js e PostgreSQL, com experiência em arquitetura full stack, APIs, Redis/BullMQ, WebSockets, integrações enterprise e aplicações mobile em React Native.
+ 
+Em mobile, desenvolvi produtos iOS e Android, incluindo o MemoriaViva, aplicativo React Native para cuidadores de pacientes com Alzheimer, com arquitetura offline-first, sincronização com backend e integração com um portal utilizado por profissionais de saúde.
+ 
+Ao longo da carreira, trabalhei em projetos para empresas como Johnson & Johnson, Pfizer, Novartis, Coca-Cola, Disney e Globo, além da minha experiência na McCann Health e em projetos internacionais.
+ 
+Nos últimos anos também venho trabalhando com Generative AI, AI Agents e MCP, incluindo projetos como MuAiFlow e AI Medical Review.
+ 
+Core: TypeScript · React · React Native · Next.js · Node.js · PostgreSQL · Software Architecture · APIs · AI Agents · Technical Leadership · Healthcare/Pharma
 
 ---
 
