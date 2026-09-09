@@ -5,19 +5,15 @@
 <a href="https://medium.com/@willdeschepper" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
 
 **Senior Software Engineer / Tech Lead** com mais de 20 anos em tecnologia e mais de uma década desenvolvendo produtos digitais para healthcare e pharma.
- 
-Atualmente como Software Engineer na 4RWeb Interactive, liderando arquitetura e desenvolvimento de plataformas e produtos digitais enquanto continuo trabalhando diretamente com código.
- 
-Minha stack atual é principalmente TypeScript, React, Next.js, Node.js e PostgreSQL, com experiência em arquitetura full stack, APIs, Redis/BullMQ, WebSockets, integrações enterprise e aplicações mobile em React Native.
- 
-Em mobile, desenvolvi produtos iOS e Android, incluindo o MemoriaViva, aplicativo React Native para cuidadores de pacientes com Alzheimer, com arquitetura offline-first, sincronização com backend e integração com um portal utilizado por profissionais de saúde.
- 
-Ao longo da carreira, trabalhei em projetos para empresas como Johnson & Johnson, Pfizer, Novartis, Coca-Cola, Disney e Globo, além da minha experiência na McCann Health e em projetos internacionais.
- 
-Nos últimos anos também venho trabalhando com Generative AI, AI Agents e MCP, incluindo projetos como MuAiFlow e AI Medical Review.
- 
-Core: TypeScript · React · React Native · Next.js · Node.js · PostgreSQL · Software Architecture · APIs · AI Agents · Technical Leadership · Healthcare/Pharma
 
+Hoje na 4RWeb Interactive: SaaS e ferramentas digitais para agências e para a indústria farmacêutica. Continuo escrevendo código todo dia. 
+
+Antes: AURA, plataforma de inteligência comercial que virou produto vendido a laboratório, com camada de IA dentro do Veeva CRM (certificado Veeva desde 2017). Merck Cuida, PSP no ar de 2014 a 2025. MemoriaViva, app do Programa Alzheimer da Libbs. Coke Zero Game para a Coca-Cola Alemanha — 1,4 milhão de experiências, Silver em Cannes.
+
+Fora do trabalho de cliente: MuAiFlow, framework open source de orquestração multiagente no npm, e AI Medical Review, pré-triagem clínica com validador determinístico que sobrepõe a IA em caso crítico. A tese nos dois é a mesma: a IA propõe, o código determinístico decide, o humano aprova.
+
+Core: TypeScript · React · React Native · Next.js · Node.js · NestJS · PostgreSQL · Software Architecture · AI Agents · Technical Leadership · Healthcare/Pharma
+ 
 ---
 
 ## Projetos em destaque
