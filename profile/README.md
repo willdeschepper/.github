@@ -233,13 +233,3 @@ Projetos de fases anteriores da carreira, mantidos como registro. Alguns rodam h
 </details>
 
 ---
-
-## Estatísticas
-
-![Linguagens de Wiliam De Schepper](https://github-readme-stats.vercel.app/api/top-langs?username=willdeschepper&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
-
-<img width="500" src="https://github-readme-stats-4rweb.vercel.app/api?username=willdeschepper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas de Wiliam De Schepper" />
-
-<a href="https://github.com/willdeschepper" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-streak-stats-4rweb.vercel.app?user=willdeschepper&amp;theme=tokyonight&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-![Atividade de Wiliam De Schepper](https://github-readme-activity-graph.vercel.app/graph?username=willdeschepper&theme=github-compact)
