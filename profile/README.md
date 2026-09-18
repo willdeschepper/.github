@@ -4,13 +4,7 @@
 <a href="https://www.npmjs.com/~4rweb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="npm" /></a>
 <a href="https://medium.com/@willdeschepper" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
 
-**Senior Software Engineer / Tech Lead** com mais de 20 anos em tecnologia e mais de uma década desenvolvendo produtos digitais para healthcare e pharma.
-
-Hoje na 4RWeb Interactive: SaaS e ferramentas digitais para agências e para a indústria farmacêutica. Continuo escrevendo código todo dia. 
-
-Antes: AURA, plataforma de inteligência comercial que virou produto vendido a laboratório, com camada de IA dentro do Veeva CRM (certificado Veeva desde 2017). Merck Cuida, PSP no ar de 2014 a 2025. MemoriaViva, app do Programa Alzheimer da Libbs. Coke Zero Game para a Coca-Cola Alemanha — 1,4 milhão de experiências, Silver em Cannes.
-
-Fora do trabalho de cliente: MuAiFlow, framework open source de orquestração multiagente no npm, e AI Medical Review, pré-triagem clínica com validador determinístico que sobrepõe a IA em caso crítico. A tese nos dois é a mesma: a IA propõe, o código determinístico decide, o humano aprova.
+**Engenheiro Full Stack Sênior.** 20+ anos de carreira, mais de 14 em saúde e pharma. Já liderei time e respondi por arquitetura, mas o que faço todo dia é escrever código. Hoje na 4RWeb Interactive: SaaS e ferramentas digitais para agências e para a indústria farmacêutica. Antes: AURA, inteligência comercial que virou produto vendido a laboratório, com camada de IA no Veeva CRM (certificado Veeva desde 2017). Plataforma de paciente de 30 mil para 900 mil usuários. Merck Cuida, PSP no ar de 2014 a 2025. MemoriaViva, app do Programa Alzheimer da Libbs. Coke Zero Game — 1,4 milhão de experiências, Silver em Cannes. Fora de cliente: MuAiFlow, orquestração multiagente no npm. AI Medical Review, pré-triagem clínica com validador determinístico. CreatorOps, atribuição e comissionamento de afiliados. A tese nos três: a IA propõe, o código determinístico decide, o humano aprova.
 
 Core: TypeScript · React · React Native · Next.js · Node.js · NestJS · PostgreSQL · Software Architecture · AI Agents · Technical Leadership · Healthcare/Pharma
  
