@@ -16,6 +16,13 @@ Core: TypeScript · React · React Native · Next.js · Node.js · NestJS · Pos
 
 ## Projetos em destaque
 
+### CreatorOps - Agentic - Platform
+
+Plataforma local em Python para programas de creators e afiliados, com atribuição de vendas, comissões, payouts idempotentes e reconciliação agentic com gates determinísticos.
+
+https://github.com/willdeschepper/CreatorOps-Agentic-Platform
+
+
 ### MemoriaViva — Programa Alzheimer LIBBS
 
 Aplicativo **React Native para iOS e Android** desenvolvido para apoiar cuidadores de pacientes com Alzheimer, integrado a um backend Node.js e a um portal utilizado por profissionais de saúde.
