@@ -4,7 +4,11 @@
 <a href="https://www.npmjs.com/~4rweb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="npm" /></a>
 <a href="https://medium.com/@willdeschepper" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
 
-**Engenheiro Full Stack Sênior.** 20+ anos de carreira, mais de 14 em saúde e pharma. Já liderei time e respondi por arquitetura, mas o que faço todo dia é escrever código. Hoje na 4RWeb Interactive: SaaS e ferramentas digitais para agências e para a indústria farmacêutica. Antes: AURA, inteligência comercial que virou produto vendido a laboratório, com camada de IA no Veeva CRM (certificado Veeva desde 2017). Plataforma de paciente de 30 mil para 900 mil usuários. Merck Cuida, PSP no ar de 2014 a 2025. MemoriaViva, app do Programa Alzheimer da Libbs. Coke Zero Game — 1,4 milhão de experiências, Silver em Cannes. Fora de cliente: MuAiFlow, orquestração multiagente no npm. AI Medical Review, pré-triagem clínica com validador determinístico. CreatorOps, atribuição e comissionamento de afiliados. A tese nos três: a IA propõe, o código determinístico decide, o humano aprova.
+**Engenheiro Full Stack Sênior.** 20+ anos escrevendo código, 14 deles em saúde e pharma. Hoje trabalho com TypeScript, React, React Native, Node e Python.
+
+### Antes disso
+
+Fui tech lead do AURA, plataforma interna de inteligência comercial da Float Health, e fiz a camada de IA dele que roda no Veeva CRM dos laboratórios clientes. Construí o Merck Cuida, PSP que ficou no ar de 2014 a 2025, e o MemoriaViva, app em React Native do Programa Alzheimer da Libbs.
 
 Core: TypeScript · React · React Native · Next.js · Node.js · NestJS · PostgreSQL · Software Architecture · AI Agents · Technical Leadership · Healthcare/Pharma
  
