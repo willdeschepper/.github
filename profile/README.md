@@ -8,7 +8,7 @@
 
 ### Antes disso
 
-Lead Software Engineer no AURA, plataforma interna de inteligência comercial da Float Health, e fiz a camada de IA dele que roda no Veeva CRM dos laboratórios clientes. Construí o Merck Cuida, PSP que ficou no ar de 2014 a 2025, e o MemoriaViva, app em React Native do Programa Alzheimer da Libbs.
+Lead Software Engineer na Float Health, ajudei no desenvolvimento do AURA, uma plataforma interna de inteligência comercial da Float Health, e fiz a camada de IA dele que roda no Veeva CRM dos laboratórios clientes. Construí o Merck Cuida, PSP que ficou no ar de 2014 a 2025, e o MemoriaViva, app em React Native do Programa Alzheimer da Libbs.
 
 Core: TypeScript · React · React Native · Next.js · Node.js · NestJS · PostgreSQL · Software Architecture · AI Agents · Technical Leadership · Healthcare/Pharma
  
