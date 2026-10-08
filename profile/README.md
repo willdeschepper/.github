@@ -4,11 +4,13 @@
 <a href="https://www.npmjs.com/~4rweb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="npm" /></a>
 <a href="https://medium.com/@willdeschepper" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
 
-**Engenheiro Full Stack Sênior.** 20+ anos escrevendo código, 14 deles em saúde e pharma. Hoje trabalho com TypeScript, React, React Native, Node e Python.
+**Lead Software Engineer.** 20+ anos escrevendo código, 14 deles em healthtech. Hoje trabalho com TypeScript, React, React Native, Node.js e Python.
 
 ### Antes disso
 
-Lead Software Engineer na Float Health, ajudei no desenvolvimento do AURA, uma plataforma interna de inteligência comercial da Float Health, e fiz a camada de IA dele que roda no Veeva CRM dos laboratórios clientes. Construí o Merck Cuida, PSP que ficou no ar de 2014 a 2025, e o MemoriaViva, app em React Native do Programa Alzheimer da Libbs.
+Na Float, construí o AURA, suíte de CRM e inteligência comercial com módulos de BI, NPS, metas e mapa de decisores, e liderei de três a seis engenheiros na entrega. No Receita de Vida (MSD), portal de pacientes com mais de 1 milhão de cadastrados, conduzi o hardening antes da auditoria de segurança do cliente. No Float Events implementei o check-in offline, com QR assinado e sincronização idempotente.
+
+Em IA aplicada a produto, desenvolvi a camada que roda no Veeva CRM dos clientes com servidor MCP próprio, um pipeline de RAG com LlamaIndex e o BrainLab, em que um agente consolidador consulta cinco especialistas para montar o briefing de uma oportunidade comercial.
 
 Core: TypeScript · React · React Native · Next.js · Node.js · NestJS · PostgreSQL · Software Architecture · AI Agents · Technical Leadership · Healthcare/Pharma
  
