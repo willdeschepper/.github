@@ -4,7 +4,7 @@
 <a href="https://www.npmjs.com/~4rweb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="npm" /></a>
 <a href="https://medium.com/@willdeschepper" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
 
-**Lead Software Engineer.** 20+ anos escrevendo código, 14 deles em healthtech. Hoje trabalho com TypeScript, React, React Native, Node.js e Python.
+**Tech lead.** 20+ anos escrevendo código, 14 deles em healthtech. Hoje sou Especialista de Tecnologia no CNA+, a administradora da rede CNA de escolas de idiomas, e cuido de arquitetura e integração das plataformas digitais da rede. Minha base é TypeScript, React, React Native, Node.js e Python.
 
 ### Antes disso
 
